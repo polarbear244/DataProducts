@@ -1,7 +1,7 @@
 # DataProducts
 Developing Data Products
 
-Assignment 3
+## Assignment 3
 
 This simple Shiny application:
 
