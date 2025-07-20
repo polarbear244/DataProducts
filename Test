@@ -1,0 +1,10 @@
+# Simple R Program: Calculate the Average of a List
+
+# Define a list of numbers
+numbers <- c(5, 10, 15, 20, 25)
+
+# Calculate the average
+average <- mean(numbers)
+
+# Print the result
+cat("The average is:", average, "\n")
